@@ -1,0 +1,19 @@
+{
+  "name": "ultimate-ve-helper-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharmaPawan98/ultimate-ve-helper-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharmaPawan98/ultimate-ve-helper-functions/issues"
+  },
+  "homepage": "https://github.com/SharmaPawan98/ultimate-ve-helper-functions#readme"
+}
